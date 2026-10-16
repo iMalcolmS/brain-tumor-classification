@@ -142,8 +142,7 @@ brain-tumor-classification/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/brain-tumor-classification.git
-cd brain-tumor-classification
+git clone https://github.com/iMalcolmS/brain-tumor-classification.git
 ```
 
 ### 2. Install dependencies
@@ -229,5 +228,5 @@ The predicted class (Glioma / Meningioma / No Tumor / Pituitary) is printed alon
 
 ## Author
 
-**Malcolm** — MSc Artificial Intelligence (Healthcare), University of [Your University]  
-[LinkedIn](#) · [GitHub](#)
+**Malcolm** — MSc Artificial Intelligence (Healthcare), University of West London  
+[LinkedIn](https://www.linkedin.com/in/malcolm-sanha-138918269/) · [GitHub](https://github.com/iMalcolmS)
